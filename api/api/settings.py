@@ -84,7 +84,7 @@ DATABASES = {
             'sql_mode': 'traditional'
         },
         'NAME': 'oktara_logistics',
-        'USER': 'root',
+        'USER': '',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
         'PORT': '3306',
